@@ -1,4 +1,46 @@
 {
     "Name": "Aditya Sai",
     "Desc": "Frequent Breather"
-}
+    "Avatar": "https://i.imgur.com/3uEyHgdl.png"
+
+    "Socials": {
+      "facebook-f": "adityasai",
+      "twitter": "Sai2004sai",
+      "linkedin-in": "Aditya Sai",
+      "instagram": "adi.sai.04",
+      "github": "AdityaSai2004"
+    },
+    "Links": [
+      {
+        "Heading": "Personal",
+        "List": [
+          {
+            "Icon": "globe-europe",
+            "Text": "Website",
+            "Link": "adityasai.co/"
+          },
+          {
+            "Icon": "blog",
+            "Text": "Blog",
+            "Link": "adityasai.co/"
+          }
+        ]
+      },
+      {
+        "Heading": "Professional",
+        "List": [
+          {
+            "Icon": "briefcase",
+            "Text": "Cloudroit",
+            "Link": "https://cloudroit.com/"
+          },
+          {
+            "Icon": "link",
+            "Text": "Lynku",
+            "Link": "https://adityasai2004.github.io/ddd-apple//"
+          }
+        ]
+      }
+    ]
+  }
+      
